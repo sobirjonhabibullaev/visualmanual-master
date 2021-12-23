@@ -1,0 +1,11 @@
+{
+  "tfjsVersion": "1.3.1",
+  "tmVersion": "2.4.4",
+  "packageVersion": "0.8.4-alpha2",
+  "packageName": "@teachablemachine/image",
+  "timeStamp": "2021-11-10T15:49:23.975Z",
+  "userMetadata": {},
+  "modelName": "model",
+  "labels": ["Astronomy", "Biology", "Chemistry", "Medicine", "Physics"],
+  "imageSize": 224
+}
